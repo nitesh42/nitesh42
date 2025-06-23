@@ -25,6 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   - 📫 How to reach me **nitesh12paudel@gmail.com**
+  - Git - https://github.com/shadynitesh22
   
 </p>
 
